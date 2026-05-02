@@ -1,3 +1,3 @@
- Function sayHello() {
-  alert("Hello welcome to my website");
-}
+document.getElementById("btn").onclick=function(){
+ alert("welcome to My website"!);
+};
